@@ -10,3 +10,6 @@
  *
  */
 ?>
+<script type="text/javascript">
+  alert("HEY");
+</script>
